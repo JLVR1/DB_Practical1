@@ -1,0 +1,39 @@
+Question a:
+81
+
+Question b:
+Mumbai (Bombay): 10500000
+Seoul: 9981619
+São Paulo: 9968485
+Shanghai: 9696300
+Jakarta: 9604900
+
+Question c:
+Russian Federation: 17075400
+Canada: 9970610
+China: 9572900
+United States: 9363520
+Brazil: 8547403
+
+Question d:
+69
+
+Question e:
+Belgium, Dominican Republic, El Salvador, Greece, Honduras, Liberia, Nicaragua
+
+Question f:
+Saint Helena: 76.8
+Libyan Arab Jamahiriya: 75.5
+Tunisia: 73.7
+Réunion: 72.7
+Mauritius: 71.0
+
+Question g:
+Spanish: 46984.50%
+English: 38306.30%
+Chinese: 34209.00%
+Portuguese: 25057.30%
+Japanese: 24735.60%
+
+Question h:
+Albania, Algeria, American Samoa, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Bermuda, Bolivia, Bosnia and Herzegovina, Botswana, Bulgaria, Cambodia, Canada, China, Colombia, Costa Rica, Croatia, Cuba, Dominica, Equatorial Guinea, Eritrea, Estonia, Ethiopia, French Guiana, French Polynesia, Gambia, Georgia, Ghana, Grenada, Guatemala, Guinea, Guyana, India, Indonesia, Jamaica, Kenya, Latvia, Liberia, Libyan Arab Jamahiriya, Lithuania, Macedonia, Malaysia, Malta, Mauritania, Moldova, Mongolia, Namibia, New Caledonia, Nicaragua, Nigeria, North Korea, Panama, Papua New Guinea, Romania, Rwanda, Saint Helena, Saint Lucia, Samoa, Saudi Arabia, Slovakia, Slovenia, Somalia, South Africa, South Korea, Sri Lanka, Syria, Tanzania, Tonga, Tunisia, Uganda, Venezuela, Wallis and Futuna, Western Sahara, Yugoslavia, Zambia
