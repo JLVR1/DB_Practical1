@@ -29,11 +29,11 @@ Réunion: 72.7
 Mauritius: 71.0
 
 Question g:
-Spanish: 46984.50%
-English: 38306.30%
-Chinese: 34209.00%
-Portuguese: 25057.30%
-Japanese: 24735.60%
+Spanish: 12.03%
+English: 9.81%
+Chinese: 8.76%
+Portuguese: 6.42%
+Japanese: 6.34%
 
 Question h:
 Albania, Algeria, American Samoa, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Bermuda, Bolivia, Bosnia and Herzegovina, Botswana, Bulgaria, Cambodia, Canada, China, Colombia, Costa Rica, Croatia, Cuba, Dominica, Equatorial Guinea, Eritrea, Estonia, Ethiopia, French Guiana, French Polynesia, Gambia, Georgia, Ghana, Grenada, Guatemala, Guinea, Guyana, India, Indonesia, Jamaica, Kenya, Latvia, Liberia, Libyan Arab Jamahiriya, Lithuania, Macedonia, Malaysia, Malta, Mauritania, Moldova, Mongolia, Namibia, New Caledonia, Nicaragua, Nigeria, North Korea, Panama, Papua New Guinea, Romania, Rwanda, Saint Helena, Saint Lucia, Samoa, Saudi Arabia, Slovakia, Slovenia, Somalia, South Africa, South Korea, Sri Lanka, Syria, Tanzania, Tonga, Tunisia, Uganda, Venezuela, Wallis and Futuna, Western Sahara, Yugoslavia, Zambia
